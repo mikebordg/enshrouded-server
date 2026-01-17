@@ -52,8 +52,8 @@
 	},
 	"userGroups": [
 		{
-			"name": "Admin",
-			"password": "changemeplease",
+			"name": "enshrouded_admin",
+			"password": "nona",
 			"canKickBan": true,
 			"canAccessInventories": true,
 			"canEditWorld": true,
@@ -63,7 +63,7 @@
 		},
 		{
 			"name": "Friend",
-			"password": "alsochangemeplease",
+			"password": "nona",
 			"canKickBan": false,
 			"canAccessInventories": true,
 			"canEditWorld": true,
